@@ -6,4 +6,4 @@
 
 Contributed to [Chess][1]
 
-  [1]: https://github.com/BVLC/caffe/commits?author=gineshidalgo99
+  [1]: https://github.com/datteroandrea/chess/commits?author=giova239
